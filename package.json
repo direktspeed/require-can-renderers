@@ -19,7 +19,7 @@
   "dependencies": {
     "can-compile": "0.10.2",
     "shelljs": "0.7.5",
-    "jsesc": "^2.2.0"
+    "jsesc": "^2.3.0"
   },
   "devDependencies": {
     "grunt-contrib-requirejs": "1.0.0"
